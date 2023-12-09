@@ -21,7 +21,7 @@ Skills: VITE JS / REACT / JS / HTML / CSS / EXPRESS / NODE JS / MONGODB / TAILWI
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ferdous567)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/khaleda-ferdous-a86825297/)  
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,CSS, react, nodejs, vite, tailwind, vscode, mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,CSS,react,nodejs,tailwind,vscode,mongodb)](https://skillicons.dev)
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
