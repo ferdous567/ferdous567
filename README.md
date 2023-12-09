@@ -1,6 +1,8 @@
 ![Frontend Web Developer](https://i.ibb.co/nnT5XKj/Black-Technology-Linked-In-Banner-2.png)
 
 ### Hi there 👋, I am Khaleda Ferdous.
+(### email: papiaferdous43@gmail.com)
+
 #### Frontend Web Developer
 
 
