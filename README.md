@@ -56,6 +56,13 @@ Using react router dom to single page application.
 Using firebase for backend site.
 Using AOS package, react toast, marquee etc.
 
+#### Project Details: 
+This is wedding service management website. This website is making by basically takes
+orders for all the wedding ceremonies, and completes them. This website use react
+mongodb, firebase, node , tailwind, daisy etc.
+
+##### github repo link: https://github.com/ferdous567/happy-wedding-ass9
+
 ## 2.Resturant Management Project
 ### live site link: https://vague-bikes.surge.sh/
 #### Using Features-
@@ -75,7 +82,7 @@ In this home page has attractive banner, top food section, show all button, stat
 when user logged in he/she can see food details page, and her profile page, this have add product page, all order page, delete add item etc.
 The all food page have search bar, and implement pagination system.
 User can order food via login.
-
+##### github repo link: https://github.com/ferdous567/erema-resturant-client-a11
 
 ## 3.Food Management Project
 ### My client side live link : https://food-bevarage.web.app/
@@ -91,6 +98,12 @@ MongoDB: Mongodb is a main attraction to this projects. Its very enjoyable, i en
 Dark theme: Its not a very big things, but as a new , its challanging to me. At last i complete it successfully.
 
 I use also css framework- tailwind and daisiUI, javascript liberary- react, sweet alert and so on.
+
+### Project Details: 
+This is brand wise food management website. In this website has navbar, banner, footer on the home page. There are login page and register page also.
+User can logged in and logged out. This food item shown by brand type. Each item has own details page. User can add products and see their products to my cart.
+
+##### github repo link: https://github.com/ferdous567/food-bevarage-a10-client
 
 ## Please Visit - https://www.githubwrapped.io/ferdous567
 ![wrapper-cover-image](https://i.ibb.co/2h9mBxg/github-wrapped-1.png)
