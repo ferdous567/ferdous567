@@ -21,7 +21,7 @@ Skills: VITE JS / REACT / JS / HTML / CSS / EXPRESS / NODE JS / MONGODB / TAILWI
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ferdous567)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/khaleda-ferdous-a86825297/)  
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferdous567&label=Profile%20views&color=0e75b6&style=flat" alt="ferdous567" /> </p>
 
@@ -37,8 +37,9 @@ Skills: VITE JS / REACT / JS / HTML / CSS / EXPRESS / NODE JS / MONGODB / TAILWI
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
+<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferdous567)](https://github.com/anuraghazra/github-readme-stats)
-
+</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferdous567&show_icons=true&theme=radical)
 
