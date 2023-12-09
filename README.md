@@ -46,5 +46,51 @@ Skills: VITE / REACT / JS / HTML / CSS / EXPRESS / NODE JS / MONGODB / TAILWIND 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ferdous567&theme=radical)](https://git.io/streak-stats)
 
+# My Leatest Projects
+## 1.Wedding Management Project
+### website link: https://happy-wedding-assignment.web.app/
+#### Using Features-
+Using css framework of tailwind and daisi UI.
+Using Vite to recat liberary.
+Using react router dom to single page application.
+Using firebase for backend site.
+Using AOS package, react toast, marquee etc.
+
+## 2.Resturant Management Project
+### live site link: https://vague-bikes.surge.sh/
+#### Using Features-
+
+Use Firebase for client side
+use mongo db for backend
+for css framework use tailwind and daisyUI
+use react for javascript liberary
+use sweet alert
+use framer motion
+use vite for react
+
+### Details this project
+This projects has a navbar, a home page, login page, footer etc.
+navbar includes home, blog, contact, login/logout.
+In this home page has attractive banner, top food section, show all button, stat bar, and meet team.
+when user logged in he/she can see food details page, and her profile page, this have add product page, all order page, delete add item etc.
+The all food page have search bar, and implement pagination system.
+User can order food via login.
+
+
+## 3.Food Management Project
+### My client side live link : https://food-bevarage.web.app/
+#### Using Features-
+
+
+Firebase: firebase use this projects for authentication and client side deployes. Works it very good.
+
+Vercel: It used to serverside deployment, it also good workable.
+
+MongoDB: Mongodb is a main attraction to this projects. Its very enjoyable, i enjoy it very much, and it is very helpful too.
+
+Dark theme: Its not a very big things, but as a new , its challanging to me. At last i complete it successfully.
+
+I use also css framework- tailwind and daisiUI, javascript liberary- react, sweet alert and so on.
+
 ## Please Visit - https://www.githubwrapped.io/ferdous567
 ![wrapper-cover-image](https://i.ibb.co/2h9mBxg/github-wrapped-1.png)
