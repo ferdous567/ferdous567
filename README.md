@@ -27,7 +27,7 @@ Skills: VITE JS / REACT / JS / HTML / CSS / EXPRESS / NODE JS / MONGODB / TAILWI
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
@@ -37,9 +37,9 @@ Skills: VITE JS / REACT / JS / HTML / CSS / EXPRESS / NODE JS / MONGODB / TAILWI
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-<p align="center">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferdous567)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferdous567&show_icons=true&theme=radical)
 
