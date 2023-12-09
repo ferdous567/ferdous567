@@ -8,6 +8,7 @@ I am front front-end web developer. My goal is to become a full-stack developer.
 
 Skills: VITE JS / REACT / JS / HTML / CSS / EXPRESS / NODE JS / MONGODB / TAILWIND / DAISYUI
 
+
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Next js 
 - 👯 I’m looking to collaborate on .. 
@@ -19,6 +20,8 @@ Skills: VITE JS / REACT / JS / HTML / CSS / EXPRESS / NODE JS / MONGODB / TAILWI
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ferdous567)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/khaleda-ferdous-a86825297/)  
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
