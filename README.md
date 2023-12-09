@@ -8,7 +8,7 @@
 
 I am front front-end web developer. My goal is to become a full-stack developer. Coding is my passion. I am a dedicated learner also. I share my experience with others publicly. In my coding, I use javascript, react, node, MongoDB, express, etc.
 
-Skills: VITE JS / REACT / JS / HTML / CSS / EXPRESS / NODE JS / MONGODB / TAILWIND / DAISYUI
+Skills: VITE / REACT / JS / HTML / CSS / EXPRESS / NODE JS / MONGODB / TAILWIND / DAISYUI
 
 
 - 🔭 I’m currently working on this page. 
