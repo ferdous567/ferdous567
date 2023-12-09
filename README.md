@@ -26,6 +26,7 @@ Skills: VITE JS / REACT / JS / HTML / CSS / EXPRESS / NODE JS / MONGODB / TAILWI
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ferdous567&show_icons=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=ferdous567)  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=ferdous567) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ferdous567&theme=radical)](https://git.io/streak-stats)
+
 
